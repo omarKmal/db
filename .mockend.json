@@ -1,5 +1,6 @@
 {
-  "devices": [
+  "data": {
+    "devices": [
     {
       "id": "1",
       "device_name": "device 1",
@@ -4743,4 +4744,5 @@
       "task_or_activity": "The Task Or Activity"
     }
   ]
+  }
 }
